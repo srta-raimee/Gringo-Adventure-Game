@@ -3,7 +3,6 @@ Esse é um jogo criado em 48h durante a Global Game Jam 2024 com um time de 4 pe
 
 
 
-
 Tema: Make Me Laugh
  
-<img src="https://github.com/srta-raimee/Gringo-Adventure/assets/107631584/2a7cbd08-ad76-4a3d-a2da-fc07f1023348">
+<img src="https://github.com/srta-raimee/Gringo-Adventure-Game/assets/107631584/8350f99f-ab48-4bb0-9a3c-23951d794bd5">
